@@ -103,7 +103,7 @@ Clusters identified over three years consistently represented counties with vary
 │   │   └── county-health-rank.csv # county rankings for health outcomes
 │   └── raw # raw data for project  
 │       └── county-health-data.csv # raw dataset from County Health Rankings
-├── docs # documentation files
+├── requirements.txt # required packages, modules, etc 
 ├── notebooks # notebooks for data analysis and modeling
 │   └── health-perceptions.ipynb 
 └── src # source code for project
