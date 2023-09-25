@@ -89,7 +89,7 @@ Clusters identified over three years consistently represented counties with vary
 ## Recommendations for Future Research
 
 1. **Addressing Ethical Considerations:**
-   - Future studies should consider ethical implications in feature selection to avoid unintended and permanent embedding of biases in algorithms used for clinical care[^2^].
+   - Future studies should consider ethical implications in feature selection to avoid unintended and permanent embedding of biases in algorithms[^2^].
    
 2. **In-depth Analysis of Socioeconomic Factors:**
    - Delving deeper into the impact of individual socioeconomic factors on health outcomes to understand the underlying mechanisms and to identify potential intervention points[^1^].
