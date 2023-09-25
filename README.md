@@ -18,13 +18,10 @@ Population health is a multifaceted construct, reflecting the health status and 
 1. **Multidimensional Analysis:**
    - To conduct a comprehensive analysis considering multiple dimensions of population health, such as health-related quality of life and length of life, to provide a more holistic view[^1^].
    
-2. **Ethical Feature Selection:**
-   - To carefully select features, avoiding the incorporation of sensitive attributes like race and gender that may exacerbate inequities, and addressing confounding features to ensure unbiased and accurate model performance[^2^].
-   
-3. **Advanced Machine Learning Techniques:**
+2. **Advanced Machine Learning Techniques:**
    - To leverage advanced, data-driven multivariate statistical learning approaches, including linear and non-linear ensemble tree-based models, to capture the complex, nonlinear relationships in population health[^1^].
 
-4. **Comprehensive Insight Generation:**
+3. **Comprehensive Insight Generation:**
    - To interpret the results from the machine learning models to understand the significant predictors and provide insights for more targeted and effective public health strategies and interventions[^1^].
 
 ## Data
