@@ -33,13 +33,10 @@ The primary dataset utilized is the CHR California dataset, spanning the years 2
 1. **Exploratory Data Analysis (EDA):**
    - Conducting descriptive statistics, visualizations, and correlation analysis to understand the characteristics and relationships within the dataset[^1^].
    
-2. **Ethical Feature Selection:**
-   - Addressing confounding features and avoiding the blind incorporation of sensitive attributes to prevent the embedding of biases in the algorithms used for clinical care[^2^].
-   
-3. **Advanced Machine Learning Modeling:**
+2. **Advanced Machine Learning Modeling:**
    - Implementing a suite of statistical learning models including linear regression and non-linear ensemble tree-based models to evaluate population health[^1^].
    
-4. **Result Interpretation:**
+3. **Result Interpretation:**
    - Presenting visualization tools including a variable importance heat-map and partial dependence plots of the key predictors to explain the underlying relationships of the important variables with the population health outcomes[^1^].
 
 ## Results
