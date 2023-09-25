@@ -3,7 +3,7 @@
 
 **Author**: Kat Limqueco, University of California, Los Angeles (UCLA)
 
-> Keywords: Multidimensional Population Health, Machine Learning in Public Health, Health Determinants, Predictive Modeling 
+> **Keywords**: Multidimensional Population Health, Machine Learning in Public Health, Health Determinants, Predictive Modeling 
 
 ## Abstract
 
