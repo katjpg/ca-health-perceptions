@@ -37,7 +37,7 @@ def perform_pca(X, explained_variance = 0.85):
 
     Args:
         X (np.array or pd.DataFrame): The input data for PCA.
-        explained_variance (float): The amount of variance to be explained by the PCA. Default is 0.95.
+        explained_variance (float): The amount of variance to be explained by the PCA.
 
     Returns:
         X_pca (np.array): The transformed data after applying PCA.
