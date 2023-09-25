@@ -97,13 +97,6 @@ Clusters identified over three years consistently represented counties with vary
 3. **Incorporation of Additional Datasets:**
    - Integrating the CHR dataset with other relevant datasets, such as healthcare utilization and access, can enrich the analysis and provide a more comprehensive view of the health landscape in California[^1^].
 
-## References
-
-[^1^]: Wei, Z., Narin, A. B., & Mukherjee, S. (2022). Multidimensional population health modeling: A data-driven multivariate statistical learning approach. *IEEE Access, 10*, 22737-22755.
-[^2^]: Chen, I. Y., Pierson, E., Rose, S., Joshi, S., Ferryman, K., & Ghassemi, M. (2021). Ethical machine learning in healthcare. *Annual review of biomedical data science, 4*, 123-144.
-
-[^3^]: County Health Rankings & Roadmaps. (n.d.). *Methods*. Retrieved from [County Health Rankings Website](https://www.countyhealthrankings.org/explore-health-rankings/methods)
-
 ## Repository Structure
 
 ```bash 
@@ -129,3 +122,12 @@ Clusters identified over three years consistently represented counties with vary
         ├── __init__.py
         └── train_unsupervised.py
 ```
+
+
+## References
+
+[^1^]: Wei, Z., Narin, A. B., & Mukherjee, S. (2022). Multidimensional population health modeling: A data-driven multivariate statistical learning approach. *IEEE Access, 10*, 22737-22755.
+[^2^]: Chen, I. Y., Pierson, E., Rose, S., Joshi, S., Ferryman, K., & Ghassemi, M. (2021). Ethical machine learning in healthcare. *Annual review of biomedical data science, 4*, 123-144.
+
+[^3^]: County Health Rankings & Roadmaps. (n.d.). *Methods*. Retrieved from [County Health Rankings Website](https://www.countyhealthrankings.org/explore-health-rankings/methods)
+
