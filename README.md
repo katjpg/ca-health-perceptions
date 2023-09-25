@@ -1,5 +1,5 @@
 
-# Investigating Multidimensional Population Health in California Counties: An Ethical Machine Learning Approach
+# Investigating Multidimensional Population Health in California Counties: A Machine Learning Approach
 
 **Author**: Kat Limqueco, University of California, Los Angeles (UCLA)
 
