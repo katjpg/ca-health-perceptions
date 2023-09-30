@@ -10,7 +10,7 @@
 ![2nd page of site](img/02-webpage.png)
 ![3rd page of site](img/03-webpage.png)
 
-to run the website, run the following commands via terminal:
+to run the website, run the following command via terminal:
 `streamlit run src/app.py`
 
 ## Abstract
