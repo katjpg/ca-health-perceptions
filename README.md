@@ -1,7 +1,7 @@
 
 # Investigating the Role of Social Determinants in Shaping Perceptions of Health Status Across California Counties: A Machine Learning Approach
 
-**Author**: Kat Limqueco, University of California, Los Angeles (UCLA)
+**Author**: Kat L., University of California, Los Angeles (UCLA)
 
 > **Keywords**: Multidimensional Population Health, Machine Learning in Public Health, Health Determinants, Predictive Modeling 
 
