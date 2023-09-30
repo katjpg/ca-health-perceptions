@@ -5,6 +5,14 @@
 
 > **Keywords**: Multidimensional Population Health, Machine Learning in Public Health, Health Determinants, Predictive Modeling 
 
+## Interactive Website 
+![1st page of site](img/01-webpage.png)
+![2nd page of site](img/02-webpage.png)
+![3rd page of site](img/03-webpage.png)
+
+to run the website, run the following commands via terminal:
+`streamlit run src/app.py`
+
 ## Abstract
 
 This research investigates the role of social determinants in shaping perceptions of health status across California counties, focusing on a myriad of factors including socioeconomic conditions, demographic indicators, environmental conditions, and health status variables. Utilizing the County Health Rankings (CHR) California dataset from 2020 to 2022, the study employs advanced machine learning techniques, both supervised and unsupervised, to explore and categorize health outcomes. The findings reveal fifteen significant predictors of health perceptions, with physical distress emerging as a central determinant. K-Means clustering uncovers three distinct health profiles among the counties, demonstrating enduring patterns in health outcomes and behaviors. The study underscores the multidimensional nature of health perceptions and highlights the potential of machine learning in public health research, offering insights for targeted health policies and interventions.
